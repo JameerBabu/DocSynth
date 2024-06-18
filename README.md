@@ -7,3 +7,9 @@ Final project part of Generative AI coursework.
 * Extracting the text in documents.
 * Passing the processed text to OpenAI LLM model. 
 * Data Summarization.
+
+
+###### References :
+* Streamlit - https://docs.streamlit.io/
+* OpenAI - https://platform.openai.com/docs/introduction
+* PyMuPDF - https://pymupdf.readthedocs.io/en/latest/tutorial.html
